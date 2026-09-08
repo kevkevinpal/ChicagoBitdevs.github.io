@@ -25,6 +25,7 @@ Summary of exploit: <https://x.com/mononautical/status/2096799973098799192>
 Breakdown of exploit: <https://x.com/mononautical/status/2096928595432374706>  
 Explicit sidestep of Liquid PAK address whitelist: <https://x.com/OrangeSurfBTC/status/2096871214882972138>  
 Commit introducing exploit: <https://github.com/ElementsProject/elements/commit/4e5ca94f6b6ce0eecb7dc1fa65780d9a724f67bb>  
+Blockchain communication: <https://mempool.space/address/bc1ql4mfu6aundtkksxklfajs2h3t9nzcd6gyqjlte>  
 
 ## CLN Critical Vulnerability
 
@@ -99,10 +100,11 @@ A threshold custody Lightning Network channel.
 
 ## Digital Panopticon News
 ### Dark Web Selling 153M+ American's Drivers Licenses
+<https://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/>  
 <https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/>  
 
 ### US accuses American of allegedly wiping his phone using a ‘duress’ password during border search
 <https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/>  
 
-### EU will need to use the EU's app for identity authentication
-<https://x.com/jon_delorraine/status/2076587265434824999>  
+### Flock goes much further than tracking license plates
+<https://www.wired.com/story/flock-safety-os-investigate/>  
