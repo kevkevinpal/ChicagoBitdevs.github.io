@@ -108,3 +108,9 @@ A threshold custody Lightning Network channel.
 
 ### Flock goes much further than tracking license plates
 <https://www.wired.com/story/flock-safety-os-investigate/>  
+
+### Libsecp256k1 formal verification update
+<https://x.com/remix7531/status/2097687625553363307/>
+
+### Analysis on lattice based signatures from Blockstream Research
+https://x.com/Blockstream/status/2092664581789270185
